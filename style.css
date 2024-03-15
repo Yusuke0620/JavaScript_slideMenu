@@ -169,7 +169,7 @@ html {
 
 body {
   color: #403632;
-  background: url("../images/bg-shadow.jpg") no-repeat right bottom/cover fixed;
+  background: url("images/bg-shadow.jpg") no-repeat right bottom/cover fixed;
   text-align: center;
 }
 
@@ -220,7 +220,7 @@ hero
   content: "";
   width: 50%;
   height: 100vh;
-  background: url("../images/bg-hero.jpg") no-repeat center/cover;
+  background: url("images/bg-hero.jpg") no-repeat center/cover;
 }
 .hero h1 {
   position: absolute;
@@ -289,7 +289,7 @@ gallery
 shop
 -------------------------------------------*/
 .shop {
-  background: url("../images/bg-shop.jpg") no-repeat center top/cover;
+  background: url("images/bg-shop.jpg") no-repeat center top/cover;
   height: 40rem;
   margin-top: 16rem;
   position: relative;
